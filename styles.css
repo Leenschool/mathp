@@ -20,6 +20,7 @@ section {
     border-radius: 8px;
 }
 
+
 /* Flexbox layout for main container */
 #main-container {
     display: flex;
