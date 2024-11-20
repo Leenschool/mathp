@@ -13,12 +13,7 @@ header {
     padding: 20px;
 }
 
-section {
-    margin: 30px;
-    padding: 60px;
-    background-color: white;
-    border-radius: 8px;
-}
+
 
 /* Flexbox layout for main container */
 #main-container {
